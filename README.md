@@ -2,6 +2,9 @@
 
 To start your Phoenix server:
 
+  * Install dependencies with 'mix deps.get'
+  * Create and migrate your database with 'mix ecto.setup'
+  * Run the test suite to verify that everything is working correctly with 'mix test'
   * Run `mix setup` to install and setup dependencies
   * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
 
